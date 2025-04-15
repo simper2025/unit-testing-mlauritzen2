@@ -12,7 +12,7 @@ namespace TicTacToeTest
 
 		TEST_METHOD(TestTrue)
 		{
-			Assert::AreEqual(true, true);
+			Assert::AreEqual(false , true);
 		}
 
 		//TEST_METHOD(TestSetSquare)
